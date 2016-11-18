@@ -342,8 +342,13 @@ nav {
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', endColorstr='#a6000000',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
 }
 
+.logo {
+  width: 200px;
+}
+
 .reveal section img {
   border: none;
+  background: none;
 }
 
 .reveal .slide-background.portrait {
